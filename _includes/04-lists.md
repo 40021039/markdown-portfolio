@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+favorite things.
+- 🐱
+- 🐶
+- 🦁
+
+in order favourite
+1. Dhoni
+2. kohli
+3. Rohit
